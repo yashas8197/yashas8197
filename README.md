@@ -4,8 +4,6 @@
   <li>👌You can follow me on Twitter @yashas8197 - I have Document my journey there</li>
 </ul>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yashas-v-b5b41a26a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashas v" height="30" width="40" /></a>
