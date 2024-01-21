@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yashas V</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<ul align="center">
+  <li>🖥️I Have been coding in JavaScript for over 2 years</li>
+  <li>👌You can follow me on Twitter @yashas8197 - I have Document my journey there</li>
+</ul>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
