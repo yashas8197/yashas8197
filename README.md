@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashas V</h1>
-<ul align="center">
+<ul>
   <li>🖥️I Have been enjoying web development in MERN Stack for almost 2 years</li>
   <li>🧑‍💻Eagerly seeking opportunities in full-stack development, I'm drawn to the dynamic environment of startups. Passionate about making a swift impact within a close-knit team, I'm ready to contribute my skills. If you're hiring, I'd love to connect and explore potential collaboration. Let's chat!.</li>
   <li>👌You can follow me on Twitter <a href="https://twitter.com/Yashas8197">@yashas8197</a>- I have Document my journey There</li>
