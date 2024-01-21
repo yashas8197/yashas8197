@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashas V</h1>
 <ul align="center">
   <li>🖥️I Have been coding in JavaScript for over 2 years</li>
-  <li>👌You can follow me on Twitter @yashas8197 - I have Document my journey there</li>
+  <li>👌You can follow me on Twitter <a href="https://twitter.com/Yashas8197">@yashas8197</a>- I have Document my journey There</li>
 </ul>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashas8197&label=Profile%20views&color=0e75b6&style=flat" alt="yashas8197" /> </p>
