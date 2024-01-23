@@ -2,7 +2,7 @@
 <ul>
   <li>🖥️I Have been enjoying web development in MERN Stack for almost 2 years</li>
   <li>🧑‍💻Eagerly seeking opportunities in full-stack development, I'm drawn to the dynamic environment of startups. Passionate about making a swift impact within a close-knit team, I'm ready to contribute my skills. If you're hiring, I'd love to connect and explore potential collaboration. Let's chat!.</li>
-  <li>👌You can follow me on Twitter <a href="https://twitter.com/Yashas8197">@yashas8197</a>- I have Document my journey There</li>
+  <li>👌You can follow me on Twitter <a href="https://twitter.com/Yashas8197">@yashas8197</a>- I have Documented my journey there</li>
 </ul>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashas8197&label=Profile%20views&color=0e75b6&style=flat" alt="yashas8197" /> </p>
