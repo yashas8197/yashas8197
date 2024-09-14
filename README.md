@@ -3,7 +3,7 @@
 <ul>
   <li>🖥️ I have been enjoying web development in MERN Stack for almost 1 year</li>
   <li>🧑‍💻 Eagerly seeking opportunities in full-stack development, I'm drawn to the dynamic environment of startups. Passionate about making a swift impact within a close-knit team, I'm ready to contribute my skills. If you're hiring, I'd love to connect and explore potential collaboration. Let's chat!</li>
-  <li>👌 You can follow me on Twitter <a href="https://twitter.com/Yashas8197">@yashas8197</a> - I have documented my journey there</li>
+  <li>👌 You can follow me on LinkedIn <a href="https://www.linkedin.com/in/yashas-v-b5b41a26a/">@yashas8197</a> - I have documented my journey there</li>
 </ul>
 
 <br>
@@ -19,9 +19,6 @@
   </a>
   <a href="https://hashnode.com/@yashas8197" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@yashas8197" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/Yashas8197" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yashas8197" height="30" width="40" />
   </a>
 </p>
 
