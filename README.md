@@ -28,10 +28,6 @@
   </a>
 </p>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=yashas8197&theme=dark&hide_border=true" alt="GitHub Streak" />
-</a>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
