@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yashas V</h1>
 
+<p align="center">
+  Full-stack dev who enjoys building dashboards, fixing performance issues,<br/>
+  and shipping features that actually get used.
+</p>
+
 <ul>
-  <li>🖥️ I have been enjoying web development in MERN Stack for almost 1 year</li>
-  <li>🧑‍💻 Eagerly seeking opportunities in full-stack development, I'm drawn to the dynamic environment of startups. Passionate about making a swift impact within a close-knit team, I'm ready to contribute my skills. If you're hiring, I'd love to connect and explore potential collaboration. Let's chat!</li>
-  <li>👌 You can follow me on LinkedIn <a href="https://www.linkedin.com/in/yashas-v-b5b41a26a/">@yashas8197</a> - I have documented my journey there</li>
+  <li>🧑‍💻 Working with MERN stack, Next.Js, Django REST</li>
+  <li>⚙️ Experience building production dashboards & analytics tools</li>
+  <li>🚀 Interested in startups and fast-moving teams</li>
+  <li>📚 Always learning, refactoring, and optimizing things</li>
 </ul>
 
 <br>
