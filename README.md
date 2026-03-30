@@ -6,7 +6,7 @@
 </p>
 
 <ul>
-  <li>🧑‍💻 Working with MERN stack, Next.Js, Django REST</li>
+  <li>🧑‍💻 Working with MERN stack, Next.Js, Django REST, TypeScript</li>
   <li>⚙️ Experience building production dashboards & analytics tools</li>
   <li>🚀 Interested in startups and fast-moving teams</li>
   <li>📚 Always learning, refactoring, and optimizing things</li>
