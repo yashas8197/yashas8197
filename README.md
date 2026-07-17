@@ -5,13 +5,13 @@
 </p>
 
 <ul>
-  <li>built and scaled a real estate platform to 600+ users</li>
-  <li>Open Source (Team Shiksha): contributed to a live platform used by 500+ users</li>
+  <li>🧑‍💻 built and scaled a real estate platform to 600+ users</li>
+  <li>🚀 Open Source (Team Shiksha): contributed to a live platform used by 500+ users</li>
   <li>🧑‍💻 Working with MERN stack, Next.Js, Django REST, TypeScript</li>
   <li>⚙️ Experience building production dashboards & analytics tools</li>
   <li>🚀 Interested in startups and fast-moving teams</li>
   <li>📚 Always learning, refactoring, and optimizing things</li>
-  <li>Skilled in React, Next.js, Node.js, Django, PostgreSQL, MongoDB, Redis, and modern web architecture</li>
+  <li>⚙️ Skilled in React, Next.js, Node.js, Django, PostgreSQL, MongoDB, Redis, and modern web architecture</li>
 </ul>
 
 <br>
